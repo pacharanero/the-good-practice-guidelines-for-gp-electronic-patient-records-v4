@@ -1,5 +1,8 @@
-Chapter 9 -- A pathway to good paperless practice
+---
+title: 9. A Pathway to Good Paperless Practice
+---
 
+# 9. A Pathway to Good Paperless Practice
 
 ### 9.1 Introduction
 
@@ -160,7 +163,7 @@ Figure 9.4.2c Network Infrastructure
   Remote Working          Working from home or from other locations, if required, then a method of access must be supplied and configured by the PCO or system supplier.
   Bandwidth               Adequate bandwidth into and out of the practice will be needed as the practice starts to use more NHS on line services.
 
-### 
+###
 
 ### 9.4.3 Continuity Planning
 
@@ -243,7 +246,7 @@ Some clinical systems allow for a local copy of the system and data to
 be hosted on a workstation, which may then allow for limited access to
 the data in an emergency.
 
-### 
+###
 
 **9.4.3.2 Working without the computer**
 
@@ -334,7 +337,7 @@ Nevertheless, assessment of individual and team training needs should be
 undertaken and a plan drawn up for addressing these needs. Readers
 should refer to Chapter 12 of these guidelines.
 
-### 
+###
 
 ### 9.5 Benefits and risks
 
@@ -406,7 +409,7 @@ plan services.
 -   *Risk of missed information due to not referring to appropriate
     resource during periods of concurrent systems*
 
-### 
+###
 
 ### 9.6 Data quality recording standards
 
@@ -428,15 +431,15 @@ PRIMIS[^4] and GPRD[^5] have been instrumental in defining standards and
 procedures for improving data quality in Primary Care in the UK. Chapter
 6 of these guidelines provides detailed advice on high quality records.
 
-### 
+###
 
 ### 9.6.1 Recording Data
 
 To support paper-light and note-less consulting data recorded should be:
 
--   ### Complete 
+-   ### Complete
 
--   ### Accurate 
+-   ### Accurate
 
 -   ### Relevant
 
@@ -444,7 +447,7 @@ To support paper-light and note-less consulting data recorded should be:
 
 -   ### Timely/Current
 
-### 
+###
 
 Chapter 6 deals with this in more detail.
 
@@ -576,7 +579,7 @@ way, nor the various levels or meanings of clinical terms they will
 struggle to record data accurately or perhaps at all. (see also to
 Chapter 12).
 
-### 
+###
 
 ### 9.7 Moving practice business to paper-light
 
@@ -607,7 +610,7 @@ computer system. Functional areas to consider include:
   Transfers                         Managing patient transfers to and from the practice.
   Remote working                    Working with patient records from outside the practice.
 
-### 
+###
 
 ### 9.7.1 Demographic / registration data
 
@@ -634,7 +637,7 @@ include:
   --------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Use full postcodes                                  Some systems provide a post code / address lookup service
   Include phone numbers with area codes               Collect different types of phone number and ensure they are correctly labelled, e.g. 'Mobile' and 'Work'
-  Include e-mail addresses                            
+  Include e-mail addresses
   Employ 'Known as' and 'Sounds like' fields          For short names and pronunciation.
   Train staff on consequences of mismatched records   Can slow or prevent access to national services.
   Use NHS Numbers                                     Single unique NHS Ids such as NHS Number and CHI Number are essential for safe delivery of care
@@ -642,7 +645,7 @@ include:
   Family and Household linkage                        If your clinical system supports it, this can be useful to maintain making address changes easier and identification of household members possible.
   Do not operate two registers                        For example, for private and NHS patients. Clinical systems normally have methods of identifying patients with different registration purposes without having to create a separate list.
 
-### 
+###
 
 ### 9.7.2 Scheduling and Appointments
 
@@ -737,7 +740,7 @@ prescribers in the practice must be using the computer system.
   Record indications                          A QOF requirement, practices must decide how they will identify an indication for Repeat Prescriptions
   Drug Formulary                              Who will maintain this, and how will users access it. Can they prescribe 'off formulary'?
 
-### 
+###
 
 ### 9.7.4 Retrospective Data Capture and Clinical Summaries
 
@@ -838,7 +841,7 @@ original can be safely destroyed. This should only be considered after a
 document has been securely scanned to a robust document management
 system - See also chapter 10.
 
-### 
+###
 
 ### 9.7.5 Processes for Prospective Data Capture
 
@@ -904,7 +907,7 @@ information from the free text narrative. Others mandate the selection
 of at least one clinical term before any free text can be added (See
 also Chapters 6 & 7)
 
--   ### Contractual Requirements 
+-   ### Contractual Requirements
 
 ### The QOF requires that certain data items are captured and recorded to demonstrate the practice's achievements in clinical areas. Clinicians should record contract codes and values as they capture them during consultations. Clinical systems provide templates and guidance to assist with this process.
 
@@ -947,7 +950,7 @@ utility. Consequently while this may represent an additional overhead on
 data maintenance and training for the practice, it is likely to
 significantly improve the quality and utility of the patient records.
 
-### 
+###
 
 ### 9.7.6 Diagnosis refinement and amendment and deletion
 
@@ -1589,7 +1592,7 @@ working.
 
 ### 9.9 Accreditation of paperless practices
 
-### 
+###
 
 ### 9.9.1 Introduction
 

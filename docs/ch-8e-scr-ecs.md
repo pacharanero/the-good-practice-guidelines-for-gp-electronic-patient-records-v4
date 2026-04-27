@@ -1,5 +1,8 @@
-Chapter **8e** - The Summary Care Record and the Emergency Care Summary
+---
+title: 8e. The Summary Care Record and the Emergency Care Summary
+---
 
+# 8e. The Summary Care Record and the Emergency Care Summary
 
 ### 8e.1 Introduction {#e.1-introduction .ListParagraph}
 

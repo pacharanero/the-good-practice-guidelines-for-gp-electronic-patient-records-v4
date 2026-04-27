@@ -1,3 +1,7 @@
+---
+title: Appendix - GPGv4 Contributors
+---
+
 # Appendix - GPGv4 Contributors
 
 The Good Practice Guidelines depend on the contribution of many

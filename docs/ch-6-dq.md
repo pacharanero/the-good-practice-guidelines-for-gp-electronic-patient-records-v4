@@ -1,5 +1,8 @@
-Chapter 6 - High Quality Patient Records
+---
+title: 6. High Quality Patient Records
+---
 
+# 6. High Quality Patient Records
 
 ### 6.1 Introduction
 
@@ -380,7 +383,7 @@ possible[^15];
 -   *Entering historic information with today's date instead of the
     actual date of the event / test result*
 
-### 
+###
 
 ### 6.4 Capturing information from outside the practice
 

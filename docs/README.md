@@ -1,4 +1,8 @@
-# The Good Practice Guidelines for GP electronic patient records
+---
+title: The Good Practice Guidelines for GP Electronic Patient Records
+---
+
+# The Good Practice Guidelines for GP Electronic Patient Records
 
 ## Table of Contents
 

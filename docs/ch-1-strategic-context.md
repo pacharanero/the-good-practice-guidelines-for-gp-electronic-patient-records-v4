@@ -1,5 +1,8 @@
-Chapter 1 - Strategic context for the Good Practice Guidelines for GP electronic patient records v4 (2010)
+---
+title: 1. Strategic Context
+---
 
+# 1. Strategic Context for the Good Practice Guidelines for GP Electronic Patient Records V4 (2010)
 
 ### 1.1 Introduction
 

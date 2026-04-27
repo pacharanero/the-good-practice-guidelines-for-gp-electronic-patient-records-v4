@@ -48,5 +48,28 @@ markdown_extensions:
 copyright: Copyright RCGP, BMA and HSCIC
 repo_url: https://github.com/pacharanero/the-good-practice-guidelines-for-gp-electronic-patient-records
 
+nav:
+  - Home: README.md
+  - Executive Summary: gpgv4-exec-summary.md
+  - 1. Strategic Context: ch-1-strategic-context.md
+  - 2. Purposes of Health Records: ch-2-purposes-of-health-records.md
+  - 3. Clinical Safety Assurance: ch-3-clinical-safety.md
+  - 4. Records Governance: ch-4-ig.md
+  - 5. Shared Electronic Patient Records: ch-5-shared-eprs.md
+  - 6. High Quality Patient Records: ch-6-dq.md
+  - 7. Clinical Coding Schemes: ch-7-coding.md
+  - 8. Data Transfer and Interoperability: ch-8-data-transfer-and-inter-operability.md
+  - 8b. GP2GP Electronic Record Transfer: ch-8b-gp2gp.md
+  - 8c. Data Migration: ch-8c-data-migration.md
+  - 8d. Clinical Messaging: ch-8d-messaging.md
+  - 8e. Summary Care Record and Emergency Care Summary: ch-8e-scr-ecs.md
+  - 8f. Electronic Prescription Service: ch-8f-eps.md
+  - 9. Pathway to Good Paperless Practice: ch-9-paperless.md
+  - 10. Electronic Document Attachments: ch-10-e-documents.md
+  - 11. Working in an E-Business Environment: ch-11-e-business.md
+  - 12. Education and Training: ch-12-education-training.md
+  - Appendix - Contributors: gpgv4-appendix.docx.md
+  - Glossary: gpgv4-glossary.docx.md
+
 extra_css:
   - stylesheets/extra.css

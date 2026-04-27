@@ -1,5 +1,8 @@
-Chapter 10 - Electronic Document Attachments
+---
+title: 10. Electronic Document Attachments
+---
 
+# 10. Electronic Document Attachments
 
 ### 10.1 Introduction
 
@@ -355,7 +358,7 @@ that the attachments are treated exactly as other patient records, are
 backed up securely, are available for transfer to another practice, and
 are accessible to patients under terms of the Data Protection Act.
 
-### 10.5 Attachment identification and coding 
+### 10.5 Attachment identification and coding
 
 When attaching a clinical document, it is important to name or
 categorise the document within the local GP system so that its source
@@ -400,7 +403,7 @@ communicating the contents of a clinical document (see table 10.5.3)
 ### Table 10.5.3
 
   **Label element**    **Examples**
-   
+
   **Document type **   "Clinic letter", "Discharge document"
   **Speciality **      "Occupational therapy", "General medicine"
 
@@ -678,7 +681,7 @@ protocol used within NHS England for CD-ROM attachment transfer (see
 above) may be regarded as a robust model on which to base any local
 arrangement.
 
-### 10.7 e-referral attachments 
+### 10.7 e-referral attachments
 
 Chapter 9 outlines the use of e-Referral systems (section 9.7.9). Both
 of the main e-referral packages in use, Choose & Book and SCI Gateway,
@@ -698,9 +701,9 @@ copy / paste from a practice system into the body of the advice request
 or save the additional information in a document outside of the practice
 system and then add it as an attachment.
 
-### 
+###
 
-### 10.8 Other documents 
+### 10.8 Other documents
 
 Practices maintain many different forms and documents about patients
 that are essential to their day to day operations. Some of these do not

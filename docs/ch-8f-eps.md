@@ -1,5 +1,8 @@
-Chapter 8f - High Quality Medication Records & The Electronic Prescription Service
+---
+title: 8f. High Quality Medication Records and the Electronic Prescription Service
+---
 
+# 8f. High Quality Medication Records and the Electronic Prescription Service
 
 **8f.1** **Introduction**
 

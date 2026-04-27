@@ -1,9 +1,10 @@
-Chapter 7 - Clinical Coding Schemes
+---
+title: 7. Clinical Coding Schemes
+---
 
+# 7. Clinical Coding Schemes
 
-### 
-
-### 7.1 Coding schemes in current use
+### 7.1 Coding Schemes in Current Use
 
 ![](media/image1.jpeg){width="2.998611111111111in"
 height="1.9in"}Electronic records in General Practice have had coding
@@ -54,7 +55,7 @@ The real benefits of Snomed-CT implementation, in allowing all health
 sectors to communicate and share data more reliably will only come when
 it is the native coding scheme for all clinical systems.
 
-### 7.3 Features of Read Codes 
+### 7.3 Features of Read Codes
 
 Read codes are the predominantly used coding scheme in General Practice
 at the time of writing this chapter (June 2010). There are now only
@@ -64,7 +65,7 @@ available within Chapter 9 (administrative codes). Practice- or
 supplier-specific local codes have created hundreds of subflavours (see
 7.4.6).
 
-### 7.3.1 4 Byte Read, (Read version 0) 
+### 7.3.1 4 Byte Read, (Read version 0)
 
 The original 4-Byte Read codes are now no longer maintained or released,
 and so are now obsolete. As implied in the name, this terminology used
@@ -232,7 +233,7 @@ actually coded directly to A1... itself, but a smattering of 1411.,
 65Y9., 65V9. and N304. encodings exist to be missed by the unwary. The
 phenomenon is encountered in many general clinical queries.
 
-### 7.3.2.3 Terms in 5-Byte Read (RV2) 
+### 7.3.2.3 Terms in 5-Byte Read (RV2)
 
 Like 4-Byte READ, RV2 allows the use of both preferred terms and
 synonyms (different terms with equivalent meaning e.g. *myocardial
@@ -517,7 +518,7 @@ needed by specialities outside primary care.
 
 ### 7.4 General issues relating to terminology use
 
-### 
+###
 
 ### 7.4.1 Concept or term selection
 
@@ -694,7 +695,7 @@ suppliers that enabled local code creation are now engaged in activities
 to obtain official central codes to replace the commonly encountered
 local codes found in live records. **
 
-### 7.4.7 Search engines and RV2/CTV3 Termcodes 
+### 7.4.7 Search engines and RV2/CTV3 Termcodes
 
 MIQUEST can only search on Read codes (Read 2 & CTV3) and is blind to
 term codes / termIDs. MIQUEST searches can therefore only be set up on
@@ -768,7 +769,7 @@ coded much more specifically (e.g. inferior myocardial infarction).
 
 ### 7.5 Sharing coded information
 
-### 
+###
 
 As electronic communication of health information develops, new
 considerations arise related to how we code information on our practice
@@ -820,7 +821,7 @@ In the near future, we expect a new query system to be introduced,
 currently being developed on behalf of the NHS Information Centre (NHS
 IC) under the name of the GP extraction Service (GPES).
 
-### 7.5.2 Codes and system to system messaging or system migration -- important guidance. 
+### 7.5.2 Codes and system to system messaging or system migration -- important guidance.
 
 It is neither appropriate nor possible to try to discuss this important
 issue in great detail here, as there are areas of surprising complexity
@@ -968,7 +969,7 @@ the full expression of SNOMED in pre-coordinated forms, post coordinated
 forms, and be able to compute equivalence of identical concepts
 represented in different ways.
 
-### 
+###
 
 ### Figure 7.7 - Glossary of words and phrases relevant to this chapter
 

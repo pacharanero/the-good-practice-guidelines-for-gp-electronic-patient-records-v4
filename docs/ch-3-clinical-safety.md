@@ -1,5 +1,8 @@
-*Chapter 3 -- Clinical Safety Assurance*
+---
+title: 3. Clinical Safety Assurance
+---
 
+# 3. Clinical Safety Assurance
 
 ### 3.1 Introduction
 
@@ -36,7 +39,7 @@ Personal factors;
 
 -   *Violations*
 
-### 
+###
 
 'High reliability' organisations have been identified that are observed
 to have less than their fair share of accidents. These organisations
@@ -178,7 +181,7 @@ practical information and easily understood checklists to steer a
 practice through the key tasks which if conducted result in a
 safe-implementation of a new system.
 
-### 3.5 Future Safety Standards including changes to the Medical Device Directive 3.5.1 Changes to the Medical Devices Directive 
+### 3.5 Future Safety Standards including changes to the Medical Device Directive 3.5.1 Changes to the Medical Devices Directive
 
 The Medical Devices (Amendment) Regulations 2008 No 2936 which transpose
 Directive 2007/47/EC (relating to amendments to the Medical Devices

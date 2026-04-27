@@ -1,5 +1,8 @@
-GPGv4 -- Executive Summary
+---
+title: Executive Summary
+---
 
+# Executive Summary
 
 A recent joint review by representatives of the Department of Health
 Informatics Directorate and the BMA & RCGP Joint GP IT Committee

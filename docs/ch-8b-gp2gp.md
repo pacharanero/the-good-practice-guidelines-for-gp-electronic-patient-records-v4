@@ -1,5 +1,8 @@
-**Chapter 8b GP2GP Electronic Record Transfer**
+---
+title: 8b. GP2GP Electronic Record Transfer
+---
 
+# 8b. GP2GP Electronic Record Transfer
 
 Now more than 58% of all English GPs have the facility for electronic
 transfer of patient records between practices GP2GP record transfer
@@ -1060,7 +1063,7 @@ continue to exchange paper records for the foreseeable future. (See
     that appropriate entries are made on the receiving system that will
     trigger its 'native system' prescribing decision support system
 
-[^4]: 
+[^4]:
 
 [^5]: In all of these cases a 'Large Message Solution' is expected to
     overcome these limitations but even so it may still be impossible to

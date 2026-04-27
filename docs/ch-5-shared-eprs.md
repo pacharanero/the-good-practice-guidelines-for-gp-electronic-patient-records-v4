@@ -1,5 +1,8 @@
-Chapter 5 -- Shared electronic patient records
+---
+title: 5. Shared Electronic Patient Records
+---
 
+# 5. Shared Electronic Patient Records
 
 ### 5.1 Introduction
 
@@ -374,7 +377,7 @@ Under Principle 9, the audit trail must be easily visible in such cases,
 as it can be vital in understanding the patient's past treatment and/or
 healthcare journey.
 
-### 
+###
 
 ### Under Principle 15, this can be very difficult in practice. Whether disclosure is "in the public interest" can only be decided at the time and in context. 5.3 Sharing records with patients (Record Access)
 

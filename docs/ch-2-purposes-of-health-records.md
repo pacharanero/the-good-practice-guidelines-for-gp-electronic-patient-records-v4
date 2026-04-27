@@ -1,5 +1,8 @@
-Chapter 2 - The Purposes of Health Records
+---
+title: 2. The Purposes of Health Records
+---
 
+# 2. The Purposes of Health Records
 
 These will be reviewed under the headings of: clinical, non-clinical,
 additional and emerging purposes.

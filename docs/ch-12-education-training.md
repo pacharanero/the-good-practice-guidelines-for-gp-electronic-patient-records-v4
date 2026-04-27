@@ -1,4 +1,8 @@
-# Chapter 12 - Education and training 
+---
+title: 12. Education and Training
+---
+
+# 12. Education and Training
 
 ### 12.1 Why education and training are important
 

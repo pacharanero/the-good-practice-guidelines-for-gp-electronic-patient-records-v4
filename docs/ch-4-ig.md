@@ -1,7 +1,10 @@
-Chapter 4 - Records Governance 
+---
+title: 4. Records Governance
+---
 
+# 4. Records Governance
 
-### 4.1 Information governance framework 
+### 4.1 Information Governance Framework
 
 ### 4.1.1 Introduction
 
@@ -498,7 +501,7 @@ are met.
 -   NHS Information Governance -- guidance on legal and professional
     obligations[^33]
 
-### 4.2.9 The NHS (General Medical Services Contracts) Regulations 2004[^34], the NHS (Personal Medical Services Agreements) Regulations 2004[^35] and the APMS Directions[^36] 
+### 4.2.9 The NHS (General Medical Services Contracts) Regulations 2004[^34], the NHS (Personal Medical Services Agreements) Regulations 2004[^35] and the APMS Directions[^36]
 
 These Regulations, which came into force in support of the GP contract,
 provide Primary Care Trusts (PCTs) with the power to require patient,
@@ -535,7 +538,7 @@ Department of Health publication:
     Services (GMS), Personal Medical Services (PMS), and Alternative
     Provider Medical Services (APMS) Code of Practice 2005[^37]
 
-### 
+###
 
 ### 4.3 Standards
 
@@ -670,7 +673,7 @@ responsibilities in a clear and coherent way, covering both
 confidentiality and aspects of the Data Protection Act 1998. It includes
 a decision support tool for disclosure of patient information.
 
-### 
+###
 
 ### 4.5 Governance issues particular to shared electronic patient records
 
@@ -739,7 +742,7 @@ Typical incidents include:
 -   *Issues with preservation of units of measure due to how different
     systems interpret decimal points and so forth (see Chapter 8c).*
 
-### 
+###
 
 ### 4.6 Records and record keeping -- guidance from health professional bodies
 
@@ -849,9 +852,9 @@ between health professionals for the process of clinical care and audit.
 However, there is also a consistent emphasis on obtaining appropriate
 consent and informing patients how their health data may be used.**
 
-### 
+###
 
-### 
+###
 
 ### 4.7 Consent
 

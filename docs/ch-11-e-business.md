@@ -1,7 +1,10 @@
-Chapter 11 Working in an e-business environment
+---
+title: 11. Working in an E-Business Environment
+---
 
+# 11. Working in an E-Business Environment
 
-### 
+###
 
 ### 11.1 Introduction
 
@@ -39,7 +42,7 @@ We will include advice on;
 
 ### 11.2 Working in an e-business environment
 
-### 
+###
 
 ### 11.2.1 Wired World
 
@@ -63,15 +66,15 @@ are making at every level of our society. In this chapter we discuss
 managing your practice, its records and electronic systems in the wider
 world of an on line society.
 
-### 
+###
 
 ### 11.3 NHS connectivity
 
-### 
+###
 
 ### 11.3.1 The NHS National Network (N3)
 
-### 
+###
 
 The NHS National Network (N3) is a broadband, virtual private network
 serving around 1.3 million users in the NHS in England and Scotland[^2].
@@ -184,7 +187,7 @@ of clients and platforms, including most mobile devices.
 
 ### 11.4 Practice web sites and on-line services
 
-### 
+###
 
 ### 11.4.1 Web sites
 
@@ -680,7 +683,7 @@ the NHS Mail SMS gateway for such purposes.
 
 ### 11.7 Supporting general practice
 
-### 
+###
 
 ### 11.7.1 Education
 
@@ -786,7 +789,7 @@ and case conferencing.
 
 ### 11.8 Privacy and security in the online world
 
-### 
+###
 
 ### 11.8.1 Managing your privacy and protecting your identity
 
