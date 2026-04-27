@@ -1,14 +1,12 @@
 site_name: Good Practice Guidelines
-site_description: The Good Practice Guidelines for GP electronic patient records
+site_description: The Good Practice Guidelines for GP Electronic Patient Records V4
 
 theme:
-  name: material
+  variant: classic
   features:
     - navigation.instant
-    #  - navigation.tabs
     - navigation.tracking
     - navigation.top
-    #  - toc.integrate
 
   palette:
     # Light mode

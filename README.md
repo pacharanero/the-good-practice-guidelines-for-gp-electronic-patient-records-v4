@@ -27,7 +27,7 @@ The existing published GPG is at https://www.gov.uk/government/publications/the-
 
 * Discussion about the GPG can be achieved through the [GitHub Discussions](https://github.com/gp-good-practice-guidelines/the-good-practice-guidelines-for-gp-electronic-patient-records/discussions) tab.
 
-* The cost for this arrangement is zero. GitHub provides free code hosting for open source projects. The compilation step to create the readable web pages is achieved through a GitHub Action, and is also free. The hosting of the generated static site is free using GitHub pages.
+* The cost for this arrangement is zero. GitHub provides free code hosting for open source projects. The compilation step to create the readable web pages is achieved through a GitHub Action, and is also free. The hosting of the generated static site is free using GitHub Pages.
 
 * The GPG will eventually be hosted at a custom URL.
 
