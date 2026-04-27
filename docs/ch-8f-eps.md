@@ -24,23 +24,23 @@ heavily involved in using EPS.
 High quality medication information is important for a number of
 reasons:
 
--   *It is clearly clinically import to be able to view a high quality
+- *It is clearly clinically import to be able to view a high quality
     prescribing record*
 
--   *Most systems have automated decision support which check such
+- *Most systems have automated decision support which check such
     things as interactions, allergies, sensitivities and
     contraindication and can only do this insofar as they have a high
     quality computable medication record.*
 
--   *Systems also provide a range of medicines management facilities and
+- *Systems also provide a range of medicines management facilities and
     these too require a high quality computable medication record.*
 
 The quality of the medication record will depend on two things;
 
--   *How effectively the prescribing facilities in your system are
+- *How effectively the prescribing facilities in your system are
     used.*
 
--   *How effectively the recording of medicines not prescribed by the
+- *How effectively the recording of medicines not prescribed by the
     practice is handled*
 
 Users will automatically generate most of a typical GP medication record
@@ -49,31 +49,31 @@ accurately reflect prescriptions produced by the system and subsequent
 actions in relation to prescriptions issues. However to ensure that this
 is case users of systems should ensure that;
 
--   *No handwritten changes are made to computer-generated prescription
+- *No handwritten changes are made to computer-generated prescription
     including the manual addition or deletion of items. Always cancel
     the prescription and issue a new corrected prescription.*
 
--   *Where a script is not subsequently issued to the patient or
+- *Where a script is not subsequently issued to the patient or
     returned unused it should be destroyed and recorded as cancelled on
     the system.*
 
--   *Where a pharmacy queries a prescription and changes are agreed a
+- *Where a pharmacy queries a prescription and changes are agreed a
     new prescription should be issued to the pharmacy who should be
     asked to return the old prescription for cancellation as above. In
     the case of a script sent by ETP the script should be cancelled and
     a new script issued electronically.*
 
--   *Handwritten prescription issued by the practice should be recorded
+- *Handwritten prescription issued by the practice should be recorded
     on the system. All systems provide facilities to record a
     prescription without generating a new paper or electronic
     prescription.*
 
--   *Where an item is discontinued for a reason which mean you would not
+- *Where an item is discontinued for a reason which mean you would not
     wish to use that medicine with the patient in future (e.g.
     Intolerance or ineffective) the fact and reason of discontinuation
     should be record as some system will warn the prescriber if they
     attempt to prescribe a medication previously discontinued in such
-    circumstances *
+    circumstances*
 
 It is also important that medicines not prescribed by the practice but
 which are of future clinical significance are recorded on the practice
@@ -82,38 +82,38 @@ can be onerous and practices need to establish a policy, which defines
 the circumstances in which they consider it useful and practical to
 record such information, which might include;
 
--   *Medicines prescribed by other healthcare professionals.*
+- *Medicines prescribed by other healthcare professionals.*
 
--   *Over the counter and general sale (including those purchased
+- *Over the counter and general sale (including those purchased
     online) medicines bought and taken by the patient.*
 
--   *Herbal preparations bought and taken by the patient*
+- *Herbal preparations bought and taken by the patient*
 
 In general practices should seek to discover and record any medicines
 that patients are taking on a continuing basis. Some examples of
 situations where patients might be taking medicines not prescribed by
 the practice of particular clinical significance include;
 
--   *Psychiatric drugs being managed by mental health and home treatment
+- *Psychiatric drugs being managed by mental health and home treatment
     teams including depot injections.*
 
--   *Chemotherapy being managed by cancer treatment services*
+- *Chemotherapy being managed by cancer treatment services*
 
--   *Immunosuppressant drugs being managed by in secondary care
+- *Immunosuppressant drugs being managed by in secondary care
     following transplant surgery or for the treatment of autoimmune
     diseases*
 
 How information is recorded will depend on the purpose to which the
 information will be put which falls into two categories;
 
--   *Medicines where the practice will be taking over ongoing
+- *Medicines where the practice will be taking over ongoing
     prescribing (e.g. hospital outpatient of discharge medication where
     the GP has agreed to take over ongoing prescribing). In this a new
     prescription should be issued from the agreed date of transfer of
     care with details of any current prescription issued elsewhere
     record as such.*
 
--   *Medicines where the practice will not be taking over ongoing
+- *Medicines where the practice will not be taking over ongoing
     prescribing. In the case the medication should be record as being
     managed elsewhere such that prescriptions for the item cannot easily
     be accidentally produced by the practice system*
@@ -142,11 +142,11 @@ in England, and this figure is expected to continue rising by 5% each
 year. The move from the current paper-based system to an electronic one
 should be:
 
--   *More efficient*
+- *More efficient*
 
--   *Consistently accurate*
+- *Consistently accurate*
 
--   *Better able to cope with expected further increases in prescription
+- *Better able to cope with expected further increases in prescription
     volumes.*
 
 **8f.4 Different Releases in EPS**
@@ -205,26 +205,26 @@ that away with them to a pharmacy of their choice for dispensing.
 A practice can issue paper tokens at any time. They must also be issued
 in the following situations;
 
--   *At the start of a repeat dispensing regime*
+- *At the start of a repeat dispensing regime*
 
--   *Where clinical information needs to be communicated to the patient
+- *Where clinical information needs to be communicated to the patient
     (i.e. on the 'right hand side' of the prescription)*
 
--   *At a patients request*
+- *At a patients request*
 
--   *If the prescriber deems it necessary to do so*
+- *If the prescriber deems it necessary to do so*
 
 **8f.5.3 Nomination**
 
 A patient can nominate three different types of dispensers -- one in
 each field;
 
--   *Community pharmacy of their choice*
+- *Community pharmacy of their choice*
 
--   *Dispensing GP practice -- if they are classed as a dispensing
+- *Dispensing GP practice -- if they are classed as a dispensing
     patient*
 
--   *Dispensing Appliance Contractor if they receive such items*
+- *Dispensing Appliance Contractor if they receive such items*
 
 Patients can change their nomination by asking their pharmacist to do
 this for them or patients can ask their GP practice to do this.
@@ -311,19 +311,19 @@ In order for a practice to be ready for when EPS release 2 is switched
 on then they should ensure they work closely with their PCT (or
 successor organisation) during the transition to EPS R2;
 
--   *Prescribing and dispensing processes are centred around the
+- *Prescribing and dispensing processes are centred around the
     patient*
 
--   *Practices and dispensers work in partnership*
+- *Practices and dispensers work in partnership*
 
--   *PCTs must broaden and deepen their approach to support IT enabled
+- *PCTs must broaden and deepen their approach to support IT enabled
     change*
 
 GP practices can change their clinical processes by reviewing how;
 
--   *Prescribers can take advantage of enabling repeat dispensing*
+- *Prescribers can take advantage of enabling repeat dispensing*
 
--   *Practice staff can manage the repeat dispensing process along with
+- *Practice staff can manage the repeat dispensing process along with
     medication review and reauthorisation processes using protocols
     designed by the clinical staff*
 
@@ -349,11 +349,11 @@ inform communication and guidance material.
 
 The user groups include the;
 
--   *the general practitioner and community pharmacy user group*
+- *the general practitioner and community pharmacy user group*
 
--   *the patient and public user group*
+- *the patient and public user group*
 
--   *the dispensing appliance contractor user group*
+- *the dispensing appliance contractor user group*
 
 The user groups will continue to operate during the implementation of
 EPS Release 2.
@@ -363,17 +363,17 @@ EPS Release 2.
 Some of the major benefits will be to patients who will find it much
 easier to order and collect their prescriptions. They should also find;
 
--   *Reduction in the need to contact the GP practice to reorder and
+- *Reduction in the need to contact the GP practice to reorder and
     collect prescriptions, particularly once they are on an electronic
     repeat dispensing regime.*
 
--   *Greater freedom of choice, making it simpler to use a pharmacist
+- *Greater freedom of choice, making it simpler to use a pharmacist
     convenient to them.*
 
--   *Potential to reduce waiting times as the pharmacist can prepare
+- *Potential to reduce waiting times as the pharmacist can prepare
     medication items in advance of patient arriving.*
 
--   *Improved patient safety with electronic cancellation increasing the
+- *Improved patient safety with electronic cancellation increasing the
     ability to ensure patients do not receive medication they should not
     be taking and it also allows prescribers to make any immediate
     changes in medication that are necessary after prescribing.*
@@ -382,19 +382,19 @@ easier to order and collect their prescriptions. They should also find;
 
 Prescribers in the NHS should have a streamlined service along with;
 
--   *Reduction in workload for staff at GP practices generated by
+- *Reduction in workload for staff at GP practices generated by
     patients collecting individual prescriptions from the GP surgery.*
 
--   *The ability to sign prescriptions electronically will be more
+- *The ability to sign prescriptions electronically will be more
     efficient for GPs.*
 
--   *The ability for GPs to electronically cancel prescriptions at any
+- *The ability for GPs to electronically cancel prescriptions at any
     point until they are downloaded prior to being dispensed.*
 
--   *With repeat dispensing regimes in place in a practice the
+- *With repeat dispensing regimes in place in a practice the
     prescriber has more control over drugs prescribed for a patient.*
 
--   *In time, will remove the need for pharmacy staff to collect
+- *In time, will remove the need for pharmacy staff to collect
     prescriptions where they offer a prescription collection service.*
 
 EPS will allow new ways of working. It could allow further enhancement
@@ -465,25 +465,25 @@ accessed, will help to assure confidentiality.
 The following prescribing models are not supported at present and,
 therefore, still require a hand-signed FP10 paper prescription:
 
--   *Scenarios where the prescriber does not have access to the EPS (for
+- *Scenarios where the prescriber does not have access to the EPS (for
     example home visits and out of hours)*
 
--   *Personal administration of medication *
+- *Personal administration of medication*
 
--   *Private prescriptions*
+- *Private prescriptions*
 
--   *Bulk prescriptions (Drug Tariff Part VIII note 9) for a school or
+- *Bulk prescriptions (Drug Tariff Part VIII note 9) for a school or
     institution*
 
--   *Controlled drugs - Schedule 1, 2 or 3 of the Misuse of Drugs
-    Regulations *
+- *Controlled drugs - Schedule 1, 2 or 3 of the Misuse of Drugs
+    Regulations*
 
--   *When the patient chooses not have an electronic prescription*
+- *When the patient chooses not have an electronic prescription*
 
--   *In the initial stages of the EPS where a patient has not nominated
+- *In the initial stages of the EPS where a patient has not nominated
     a dispensing contractor*
 
--   *Where the prescription contains one of the very limited number of
+- *Where the prescription contains one of the very limited number of
     items that are not directly expressible using the NHS Dictionary of
     Medicines and Devices (dm+d).*
 

@@ -23,27 +23,27 @@ thereby reducing risks to patient safety.
 A well-organised data migration process should progress through the
 following stages;
 
-1.  Preparation and planning
+1. Preparation and planning
 
-2.  Extraction of data from source system
+2. Extraction of data from source system
 
-3.  Transformation / translation of data from source system format to
+3. Transformation / translation of data from source system format to
     target system format
 
-4.  Import of transformed / translated data to target system
+4. Import of transformed / translated data to target system
 
-5.  Handling of exceptions and review of data in target system
+5. Handling of exceptions and review of data in target system
 
-6.  Iteration as necessary of steps 2 -- 5 until a satisfactory result
+6. Iteration as necessary of steps 2 -- 5 until a satisfactory result
     is obtained at step 5
 
-7.  'Cut over' to target system
+7. 'Cut over' to target system
 
-8.  Back-loading to target system of any data collected during the
+8. Back-loading to target system of any data collected during the
     period of time from the final source system data extraction to
     target system 'cut over'
 
-9.  Review of information in target system in 'live'
+9. Review of information in target system in 'live'
 
 10. Final sign off
 
@@ -65,10 +65,10 @@ efficiency of a practice will typically drop at the time of migration
 and then take up to six months to recover to its original level. Reasons
 for this include the need for;
 
--   *Members of the practice team to become familiar with the workings
+- *Members of the practice team to become familiar with the workings
     of a new system*
 
--   *Some tasks to be carried out differently*
+- *Some tasks to be carried out differently*
 
 It is therefore important to identify which aspects of the practice's
 work are likely to be most affected, for example in the reception area,
@@ -87,14 +87,14 @@ input. The plan should include clear milestones, define roles and
 responsibilities and identify how communications will be managed. In
 particular it should cover;
 
--   *Unambiguous definition of what information must be migrated*
+- *Unambiguous definition of what information must be migrated*
 
--   *Clear identification of what information will not be migrated*
+- *Clear identification of what information will not be migrated*
 
--   *Discussion of known incompatibilities between source and target
+- *Discussion of known incompatibilities between source and target
     systems and how these should be handled*
 
--   *Business continuity arrangements. Depending on the process followed
+- *Business continuity arrangements. Depending on the process followed
     by the supplier one backup is likely to be identified as 'final'.
     Details about filing of pathology results, letters etc before this
     final backup should be agreed with the supplier. There may be a
@@ -112,28 +112,28 @@ particular it should cover;
     whole practice. This time gap should be kept as short as possible
     (i.e. days)*
 
--   *Clarity about the practice's current system back-up routine
+- *Clarity about the practice's current system back-up routine
     including any encryption measures: there will be a need for full
     backups to be provided at specific times as the data for migration
     is usually extracted from back-up tapes*
 
--   *Clear policy on the handling of updates (e.g. of Read codes / drug
+- *Clear policy on the handling of updates (e.g. of Read codes / drug
     codes / source system patches etc.) during the data migration
     process*
 
--   *Maintenance of any existing interfaces with other Practice IT
+- *Maintenance of any existing interfaces with other Practice IT
     systems / equipment*
 
--   *Conformity with current clinical safety approach (at the time of
+- *Conformity with current clinical safety approach (at the time of
     writing the Connecting for Health Clinical Safety Approach)*
 
--   *Compliance with Information Governance best practice*
+- *Compliance with Information Governance best practice*
 
--   *Cataloguing and explanation of tools etc. to be used (e.g. cross
+- *Cataloguing and explanation of tools etc. to be used (e.g. cross
     maps / means of finding irregularities in source data, determining
     the quality of information migrated to target system)*
 
--   *Maintenance of access to the original source system during and
+- *Maintenance of access to the original source system during and
     after the migration process so that where necessary patient records
     can continue to be accessed. This is likely to require liaison with
     the PCO*

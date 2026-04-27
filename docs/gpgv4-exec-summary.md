@@ -37,22 +37,22 @@ modern NHS.
 Principal areas covered in the GPGv4 project are organised under the
 following chapter headings;
 
-1.  Strategic Context for the Good Practice Guidelines for GP electronic
+1. Strategic Context for the Good Practice Guidelines for GP electronic
     patient records v4 (2010)
 
-2.  The Purposes of Health Records
+2. The Purposes of Health Records
 
-3.  Clinical Safety Assurance
+3. Clinical Safety Assurance
 
-4.  Records Governance
+4. Records Governance
 
-5.  Shared Electronic Patient Records
+5. Shared Electronic Patient Records
 
-6.  High Quality Patient Records
+6. High Quality Patient Records
 
-7.  Clinical Coding Schemes
+7. Clinical Coding Schemes
 
-8.  Data Transfer & Interoperability
+8. Data Transfer & Interoperability
 
     a.  The Personal Demographic Service
 
@@ -67,7 +67,7 @@ following chapter headings;
     f.  High Quality Medication Records & The Electronic Prescription
         Service
 
-9.  A Pathway to Good Paperless Practice
+9. A Pathway to Good Paperless Practice
 
 10. Electronic Document Attachments
 

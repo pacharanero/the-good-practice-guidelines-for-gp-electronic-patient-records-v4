@@ -18,27 +18,27 @@ efficiency.
 
 We will include advice on;
 
--   *NHS Internet connectivity and NHS Net based services*
+- *NHS Internet connectivity and NHS Net based services*
 
--   *Practice web sites and internet accessible practice services for
+- *Practice web sites and internet accessible practice services for
     patients*
 
--   *Non-practice internet services for patients e.g. patient owned
+- *Non-practice internet services for patients e.g. patient owned
     records*
 
--   *On line services for clinicians; peer support, reference and
+- *On line services for clinicians; peer support, reference and
     education*
 
--   *Supporting the management of the practice with computers*
+- *Supporting the management of the practice with computers*
 
--   *Remote working and communicating with patients electronically*
+- *Remote working and communicating with patients electronically*
 
--   *Maintaining and improving internal practice communications*
+- *Maintaining and improving internal practice communications*
 
--   *Guidance on assessing the validity and quality of health
+- *Guidance on assessing the validity and quality of health
     information from the internet*
 
--   *Protecting your privacy and security online*
+- *Protecting your privacy and security online*
 
 ### 11.2 Working in an e-business environment
 
@@ -246,34 +246,34 @@ company.
 Some PCOs provide practice template web sites hosted from their own web
 sites. Ask your PCO if they provide this service.
 
-### 11.4.1.2 Requirements for a General Practice web site;
+### 11.4.1.2 Requirements for a General Practice web site
 
--   ***Accessible** - For users with partial sight or other disability,
+- ***Accessible** - For users with partial sight or other disability,
     consider trying to ensure the site is accessible. The Royal National
     Institute for the Blind (RNIB) has useful guidance on this
     subject*[^8]*.*
 
--   ***Accurate** - Ensure the information provided is correct and up to
+- ***Accurate** - Ensure the information provided is correct and up to
     date*
 
--   ***Cross Platform** - Ensure the site works across all commonly used
+- ***Cross Platform** - Ensure the site works across all commonly used
     web browsers and also consider how the site will look to users using
     mobile devices such as smart phones.*
 
--   ***Privacy Statement** - With respect to what data, if any, your
+- ***Privacy Statement** - With respect to what data, if any, your
     practice will use from visitor statistics, and especially if any
     interactive services are provided*
 
--   ***Contact Details** - Ensure a contact e-mail, phone number and
+- ***Contact Details** - Ensure a contact e-mail, phone number and
     postal address is provided for queries concerning the web site.*
 
--   ***Not exclusive** - Information provided on line should reasonably
+- ***Not exclusive** - Information provided on line should reasonably
     be able to be provided in another format for users without internet
     connections. Similarly, the delivery of contractual services to
     patients should never be exclusively provided via an on-line
     service.*
 
--   ***Appropriate external links** - Links to external sites should be
+- ***Appropriate external links** - Links to external sites should be
     tested and considered appropriate by the practice, including any
     advertising. Practices may include a disclaimer to indicate the
     extent of their liability if referring patients to external sites.*
@@ -358,19 +358,19 @@ necessarily differ.
 
 Users should consider:
 
--   ***Domain** - The address of the website may be helpful it itself.
+- ***Domain** - The address of the website may be helpful it itself.
     The URL should reflect that of the organisation publishing the site.
     '.uk' domains generally mean the site will be aimed at a UK
     audience. '.co.uk' and '.com' suffixes suggest a commercial site,
     whilst '.org' and '.org.uk' are normally used for non commercial
-    purposes. *
+    purposes.*
 
--   ***Ease of use** - Is the site easy to navigate and easy to read? Is
+- ***Ease of use** - Is the site easy to navigate and easy to read? Is
     the user in control of navigation through the site, or does the site
     open pages without warning, use misleading links or demand payment
     before allowing evaluation of any content?*
 
--   ***Commercial purposes -** Many useful sites are commercial in
+- ***Commercial purposes -** Many useful sites are commercial in
     nature, and others may be funded through advertising. Any adverts
     should be appropriate to the content of the site, inoffensive and,
     ideally, passive requiring the user to follow the link rather than
@@ -378,53 +378,53 @@ Users should consider:
     controls and buttons. The funding for the site, and its intended
     purposes, should be clearly stated.*
 
--   ***Accessible** - Is the site accessible to all users? Are the
+- ***Accessible** - Is the site accessible to all users? Are the
     colours, contrasts, fonts and images easy to read and view? Do they
     provide accessibility controls such as font changers or high
     contrast schemes? Providing the site in multiple languages may be
     appropriate where the intended audience may include non English
     speakers.*
 
--   ***Language** - The level of trust granted to a website will
+- ***Language** - The level of trust granted to a website will
     increase if the language, grammar and punctuation is largely
     correct, in keeping with the intended audience. Frequent
     miss-spellings or grammatical errors should give rise to caution in
     the reader.*
 
--   ***Contact details** - Organisations providing health web sites
+- ***Contact details** - Organisations providing health web sites
     should always provide contact details, including a telephone number
     and postal address in addition to any e-mail address.*
 
--   ***References** - Information provided should be justified with
+- ***References** - Information provided should be justified with
     direct or indirect references to the source of that information.
     Where references are not provided from the site, an inquiry to the
     contact address should result in the attribution of the information
     being provided.*
 
--   ***Privacy** - Sites should state their privacy policy and, if they
+- ***Privacy** - Sites should state their privacy policy and, if they
     collect personal information, should advise users the purposes to
     which this will be put. Users should expect to have control over any
     account with the website, including how much personal information is
     collected, how it will be used and the ability to delete the account
     and associated data if desired.*
 
--   ***Transparency** - No attempt should be made to conceal the
+- ***Transparency** - No attempt should be made to conceal the
     ownership or authors of the site's content.*
 
--   ***Complementary** - The site should provide information and support
+- ***Complementary** - The site should provide information and support
     that works with the patient's other health care providers, and does
-    not aim to replace them. *
+    not aim to replace them.*
 
--   ***Useful** - Is the information the site provides of real and
+- ***Useful** - Is the information the site provides of real and
     practical benefit?*
 
--   ***Authoritative** - Is the providing organisation known to the
+- ***Authoritative** - Is the providing organisation known to the
     user, and are they known to be a trustworthy source of information.
     For example, users would expect a site provided by the NHS to
     provide authoritative information, but information from an anonymous
     blog publisher would be treated with less trust.*
 
--   ***Source** - Consider how the site was discovered? References from
+- ***Source** - Consider how the site was discovered? References from
     trusted sites would raise the trust level for the viewed site.
     Discovery through a search engine or via an unsolicited e-mail
     should be treated with more caution.*
@@ -528,33 +528,33 @@ information from the internet.
 Areas to consider and discuss with a patient who provides internet
 researched health information include;
 
--   *What was the source and how was it discovered?*
+- *What was the source and how was it discovered?*
 
--   *Is the information correct, accurate and scientifically valid?*
+- *Is the information correct, accurate and scientifically valid?*
 
--   *Is the information concise and readable within the time constraints
+- *Is the information concise and readable within the time constraints
     of the professional?*
 
--   *Is any recommended or requested treatment appropriate for the care
+- *Is any recommended or requested treatment appropriate for the care
     context? That is: for primary care; for the contract of care; for
     the UK?*
 
--   *Is the treatment licensed and available?*
+- *Is the treatment licensed and available?*
 
--   *What does the patient think of the information? Do they trust it?*
+- *What does the patient think of the information? Do they trust it?*
 
--   *How does this information fit with the patient's health model?*
+- *How does this information fit with the patient's health model?*
 
--   *Where there is a previous doctor-patient relationship with the
+- *Where there is a previous doctor-patient relationship with the
     patient, how does this new information affect this and can it be
     used within it.*
 
--   *Are there alternative sources of information that can contradict or
+- *Are there alternative sources of information that can contradict or
     support the provided views?*
 
--   *Is the patient willing to listen to alternative viewpoints?*
+- *Is the patient willing to listen to alternative viewpoints?*
 
--   *The information provided may be new to the clinician, valid and
+- *The information provided may be new to the clinician, valid and
     appropriate. It is important to acknowledge when the patient is
     correct.*
 
@@ -590,16 +590,16 @@ on line, nor would they expect an instant response; and the messages can
 be sent outside of normal working hours. Other proposed benefits
 include:
 
--   *Improving access to those who may be housebound or live in remote
+- *Improving access to those who may be housebound or live in remote
     areas*
 
--   *The opportunity to include additional information in replies,
+- *The opportunity to include additional information in replies,
     attachments or clickable links to supporting web sites*
 
--   *A more 'anonymous' medium that may make some patients more
+- *A more 'anonymous' medium that may make some patients more
     confident about addressing difficult issues*
 
--   *Potential efficiencies in time.*
+- *Potential efficiencies in time.*
 
 The drawbacks arise from the lack of personal contact and cues --
 clinicians are often experienced in consulting in real time using verbal
@@ -922,7 +922,7 @@ securely.
 
 Some examples include;
 
--   ### General Practice Research Database (GPRD)
+- ### General Practice Research Database (GPRD)
 
 GPRD[^28] is a not for profit research database owned and operated by
 the Medicines & Healthcare products Regulatory Agency (MHRA). This uses
@@ -935,12 +935,12 @@ purposes to which the data is put. Practices receive data quality advice
 and reports from GPRD based on their analysis of the received practice
 data.
 
--   ### The Health Improvement Network (THIN)
+- ### The Health Improvement Network (THIN)
 
 THIN[^29] is similar to GPRD but only accepts data from users of INPS
 Vision. It is operated by a private company, Cegedim Strategic Data.
 
--   ### Practice Team Information (PTI)
+- ### Practice Team Information (PTI)
 
 PTI[^30] extracts GP Records from clinical systems in Scotland and
 specifically examines workload by analysing face to face consultations.
@@ -1007,7 +1007,7 @@ specifically examines workload by analysing face to face consultations.
 
 [^24]: <http://www.gpnotebook.co.uk>
 
-[^25]: www.jiscmail.ac.uk/lists/gp-uk.html
+[^25]: <www.jiscmail.ac.uk/lists/gp-uk.html>
 
 [^26]: <http://www.connectingforhealth.nhs.uk/systemsandservices/ssd/prodserv/digerati>
 

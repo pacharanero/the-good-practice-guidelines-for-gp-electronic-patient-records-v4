@@ -23,18 +23,18 @@ resulted in deterioration in the completeness and integrity of patient
 record information at the point of transfer of care between practices.
 This results from a variety of causes whose main headings are;
 
--   *Patient records that are an unpredictable mix between paper and
+- *Patient records that are an unpredictable mix between paper and
     electronic.*
 
--   *The inability to transfer the electronic part of the record except
+- *The inability to transfer the electronic part of the record except
     as a print-out from the 'old' practice and the consequent need to
     re-key information (with its associated error factors) at the 'new'
     practice.*
 
--   *Variable professional skills and assiduity in recording information
+- *Variable professional skills and assiduity in recording information
     within both paper and electronic versions of the record*
 
--   *The abandonment of paper as the medium for the prime record in
+- *The abandonment of paper as the medium for the prime record in
     favour of the electronic medium*
 
 The net effect of the above places difficulties on 'new' practices in
@@ -46,18 +46,18 @@ adverse effects on patient care.
 
 The rationale for the electronic transfer of records is therefore;
 
--   *As a support for electronic records in general practice and their
+- *As a support for electronic records in general practice and their
     general benefits in terms of decision support and audit/governance
     abilities.*
 
--   *To obviate the need, as far as possible, for re-keying of
+- *To obviate the need, as far as possible, for re-keying of
     paper-based information for new patients and thus reduce resource
     implications*
 
--   *To reduce the risks to patients arising from the transfer of
+- *To reduce the risks to patients arising from the transfer of
     confusing records*
 
--   *To support the continuity of electronic patient records as the
+- *To support the continuity of electronic patient records as the
     patient moves from practice to practice*
 
 ### **8b.2 The nature of electronic GP2GP record transfer**
@@ -82,23 +82,23 @@ into which the various systems concerned may map their data structures
 in a form which is mutually comprehensible. What this means in simple
 terms is that there is a common convention for the representation of;
 
--   *Record Encounters; what constitutes a single transaction with the
+- *Record Encounters; what constitutes a single transaction with the
     record such as a surgery consultation, a letter received from
     outside the practice, an investigation result etc.*
 
--   *Names for these encounters; e.g. Home Visit, OOH Consultation,
+- *Names for these encounters; e.g. Home Visit, OOH Consultation,
     Surgery Consultation etc.*
 
--   *Headings within these encounters*
+- *Headings within these encounters*
 
--   *Complex clinical constructs; e.g. Investigation batteries, Blood
+- *Complex clinical constructs; e.g. Investigation batteries, Blood
     Pressure Results etc.*
 
--   *Code mappings; e.g. from various sets of medication codes*
+- *Code mappings; e.g. from various sets of medication codes*
 
--   *Codes and associated text*
+- *Codes and associated text*
 
--   *Major modifiers of clinical meaning; e.g. Uncertainty, Allergy,
+- *Major modifiers of clinical meaning; e.g. Uncertainty, Allergy,
     Family History*
 
 In addition, there are rules, which require the degradation of
@@ -122,7 +122,7 @@ processes if fully safe and usable records are to be reconstituted on
 receiving systems. There are also further limitations to be aware of
 that affect the appearance / usability of the record.
 
-### **8b.3.1 Medication information **
+### **8b.3.1 Medication information**
 
 There are currently three different coding schemes for the
 representation of medication information on GP systems. Transfer of that
@@ -135,12 +135,12 @@ point.
 
 The principal reasons for failure to reach 100% reliability are;
 
--   *The multiple coding schemes used and*
+- *The multiple coding schemes used and*
 
--   *Failure of previous code mapping exercises (see Data Transfer
+- *Failure of previous code mapping exercises (see Data Transfer
     chapter)*
 
--   *The multiple coding scheme problem cannot be overcome until the NHS
+- *The multiple coding scheme problem cannot be overcome until the NHS
     implements a common coding scheme for drug information on all
     electronic record systems. Even then, however, there can probably
     never be a guarantee that legacy medication information held on
@@ -156,17 +156,17 @@ there is a need to transfer the responsibility for prescribing to an
 appropriate user at the 'new' practice. GP2GP applies the following
 rules;
 
--   *Repeat medications which were 'current' at the time when the
+- *Repeat medications which were 'current' at the time when the
     patient left the 'old' practice will be de-activated on import*
 
--   *Review dates will not be transferred from 'old' to 'new' practice*
+- *Review dates will not be transferred from 'old' to 'new' practice*
 
--   *Suppliers will offer the means to users with appropriate
+- *Suppliers will offer the means to users with appropriate
     prescribing rights easily to identify and re-activate / authorise
     'current' medications selectively*
 
--   *Any 'current' medication that has been degraded to text will be
-    brought to the user's attention *
+- *Any 'current' medication that has been degraded to text will be
+    brought to the user's attention*
 
 Past issues of medication are normally grouped in EMIS systems but this
 grouping is lost when the data is imported back into EMIS system.
@@ -177,7 +177,7 @@ and from DM + D. The trend towards DM + D becoming increasingly
 integrated into GP systems has been accelerated by projects such as
 Electronic Prescribing Service (EPS).
 
-### **8b.3.2 Allergy information **
+### **8b.3.2 Allergy information**
 
 For a number of reasons it is not currently possible in every case to
 exchange information about drug allergies between all systems in a way
@@ -211,9 +211,9 @@ medication on the receiving system until appropriate action has been
 taken for every drug allergy degrade and the degrade has then been
 deleted.**
 
-### This has implications for good practice, which are discussed below.
+### This has implications for good practice, which are discussed below
 
-### **8b.3.3 Business specific information **
+### **8b.3.3 Business specific information**
 
 There are and will be from time to time, aspects of GP electronic record
 keeping that are designed to support specific business processes
@@ -242,7 +242,7 @@ same as those used by a receiving practice following transfer.
 
 The good practice effects of this are discussed below.
 
-### **8b.3.4 General record view **
+### **8b.3.4 General record view**
 
 **Users should be aware that information imported via GP2GP from a
 previous practice may not obey rules on the receiver system, in terms of
@@ -257,7 +257,7 @@ not necessarily have any adverse effect upon the process of patient
 care, provided that clinical users of the systems understand that this
 is the case and interpret the record accordingly.
 
--   **Duplication, transfer degrades and order changes**
+- **Duplication, transfer degrades and order changes**
 
 One of the inevitable consequences of heterogeneous record transfer
 (transfers between different types of GP system) is that the incoming
@@ -283,13 +283,13 @@ followed by the prefixed text. Despite these duplications, degrades and
 order changes the original meaning is usually clear. There is no need to
 edit out these irregularities
 
--   **Local codes and transfer degrades**
+- **Local codes and transfer degrades**
 
 There are broadly two kinds of local codes;
 
--   *System wide and managed by the Supplier. *
+- *System wide and managed by the Supplier.*
 
--   *Practice generated. *
+- *Practice generated.*
 
 The former can be transferred without degrade where sending and
 receiving practices use the same system. However, they lead to transfer
@@ -302,7 +302,7 @@ clear, unambiguous meaning that will be understandable to any user in
 the future, bearing in mind that the patient may change to a different
 practice.
 
--   **Consultation structures**
+- **Consultation structures**
 
 No two types of GP computer system support the same consultation
 categories and at least one system offers no categories at all. Because
@@ -311,7 +311,7 @@ being displayed under unusual categories and also to changes in ordering
 when compared with the sending system. However, typically the original
 meaning is easily understood.
 
--   **Values, units, ranges, and abnormality indicators changed to
+- **Values, units, ranges, and abnormality indicators changed to
     text**
 
 Units are not fully interoperable between different systems. Where a
@@ -322,7 +322,7 @@ that the machine will not be able to handle values converted to text
 (e.g. when running searches or showing a sequence of results
 graphically).
 
--   **Cross mapping limitations**
+- **Cross mapping limitations**
 
 At present not all systems involved in GP2GP record transfers use the
 same coding system for representing medications but all systems are
@@ -342,7 +342,7 @@ between systems using different coding schemes (e.g. Read v2, CTV3, or
 SNOMED). This will inevitably act as a potential source for further
 transfer degrades.
 
--   **Linkages between different elements of the EPR**
+- **Linkages between different elements of the EPR**
 
 While best attempts have been made to extract information about linkages
 between different elements of the record it has proved difficult to
@@ -353,7 +353,7 @@ the receiving system. This may necessitate searching the record more
 thoroughly (e.g. for relevant documents) than might be necessary for a
 'native' record
 
--   **Degrades to text**
+- **Degrades to text**
 
 These will occur where an importing system cannot effectively emulate
 structured information and this is mainly a problem where sender and
@@ -364,29 +364,29 @@ dependent on structured as opposed to textual entries will be lost.
 There are various situations where this may occur and the following are
 examples:
 
--   *Term Codes: Some term codes exported from EMIS systems cannot be
+- *Term Codes: Some term codes exported from EMIS systems cannot be
     recognised on import to InPS Vision and so are degraded to text.
     This may occur where term codes have been used in the process of
     migrating EMIS practices from 4 byte Read to Version 2 Read*
 
--   *Qualifiers: Some InPS Vision forms carry qualifiers which are
+- *Qualifiers: Some InPS Vision forms carry qualifiers which are
     extracted as text. On import to an EMIS system the forms cannot be
     reproduced so that the qualifier information appears as text*
 
--   *Dates: Some InPS Vision forms carry contextualised dates (e.g.
+- *Dates: Some InPS Vision forms carry contextualised dates (e.g.
     disease register forms) which will be degraded to text on import to
     an EMIS system Medications: Some medications (e.g. mixtures) cannot
     be represented in the NHS standard Drugs, Medications and Devices
     dictionary (DM + D). Where sender and receiver systems are different
     the details will be degraded to text*
 
--   *Allergies: Where drug details cannot be represented in DM + D and
+- *Allergies: Where drug details cannot be represented in DM + D and
     the sender and receiver systems are different, the details will be
     degraded to text*
 
 <!-- -->
 
--   **Dates**
+- **Dates**
 
 Typically, observations in GP records are displayed with a single
 uncontextualised date usually on the left hand side of the screen. This
@@ -412,7 +412,7 @@ It is hoped that in future GP systems will be better able to
 contextualise dates and that future versions of the message will be
 better able to handle that context.
 
--   **Complex consultation text -- EMIS system **
+- **Complex consultation text -- EMIS system**
 
 EMIS users in Consultation view can construct complex strings of text
 and coded information. This construct can be passably recreated on
@@ -439,37 +439,37 @@ receiving practice all such attachments should be accessible from within
 the record once it has been filed. However, there are currently
 limitations;
 
--   *The Spine Transaction and Messaging Service (TMS) currently only
+- *The Spine Transaction and Messaging Service (TMS) currently only
     operates with a restricted list of file types. Where an attachment
     is of an unsupported file type it cannot be sent across the TMS to
     the next practice. In such a case a 'placeholder' will be sent
     instead of the file*[^4]
 
--   *The TMS currently has a message size limit of 5 Mb. If the total
+- *The TMS currently has a message size limit of 5 Mb. If the total
     size of the record plus all attachments exceeds this limit then the
     GP2GP record transfer will fail totally*[^5]
 
--   *The TMS currently limits attachments to a maximum of 99. If this
+- *The TMS currently limits attachments to a maximum of 99. If this
     limit is exceeded then the GP2GP record transfer will fail
     totally*[^6]
 
--   *Some Third Party document management systems employ their own
+- *Some Third Party document management systems employ their own
     application programming interface (API) to interpret the address in
     the embedded link in order to determine the true location of the
     file. Unless the GP system supplier can access this API at the time
     of extraction the file will not be found. In this case only a
     placeholder will be sent on to the next practice*[^7]
 
--   *Contextual information (e.g. meaningful name or descriptive
+- *Contextual information (e.g. meaningful name or descriptive
     notation) is not currently interoperable between different GP
     systems so that at the receiving system it may be impossible to tell
     the nature / content of any document without first opening it. At
     present this limitation is unavoidable because no standard for
     naming and categorising documents operates in the GP domain*
 
-**8b.3.6 Handling of pathology (PMIP) results **
+**8b.3.6 Handling of pathology (PMIP) results**
 
--   **Dates **
+- **Dates**
 
 PMIP results may have as many as four associated dates when received
 from the pathology laboratory. However, because the present GP2GP HL7
@@ -477,7 +477,7 @@ message cannot contextualise dates, this limits the number of dates that
 can be forwarded to the next practice to just one. The rule adopted sets
 this as the date that the specimen was received by the laboratory.
 
--   **Units, ranges and abnormality indicators **
+- **Units, ranges and abnormality indicators**
 
 PMIP results when transmitted from the pathology lab will typically be
 accompanied by their own units, normal ranges and where appropriate,
@@ -486,12 +486,12 @@ For individual results to be correctly interpreted it is therefore vital
 that this information be preserved as originally sent. The rules adopted
 for GP2GP transfers of PMIP data are as follows:
 
--   *The PMIP units, ranges and abnormality indicator (if present) as
+- *The PMIP units, ranges and abnormality indicator (if present) as
     originally received from the laboratory must be extracted from the
     'old' practice and sent along with the value of the result to the
     'new' practice*
 
--   *On import, the 'new' practice system must preserve PMIP units,
+- *On import, the 'new' practice system must preserve PMIP units,
     ranges and abnormality indicator (if present). It must not
     substitute 'native' units or ranges nor change the abnormality
     indicator or insert an abnormality indicator where none was
@@ -502,27 +502,27 @@ results they may not assist machine interpretation for example where
 automatic searches are performed on values without taking into account
 differing units and ranges.
 
-### **8b.4 General clinical safety **
+### **8b.4 General clinical safety**
 
 Systems engaging in GP2GP record transfer are required to adhere to some
 processing rules on receipt to reduce the potentially adverse effects of
 the above limitations (see also Chapter 3)
 
-### **8b.5 Electronic and paper GP2GP record transfer **
+### **8b.5 Electronic and paper GP2GP record transfer**
 
 The transfer of paper GP records alongside electronic ones will continue
 for the foreseeable future for a variety of reasons, which include;
 
--   *The variable penetration of use in general practice of electronic
+- *The variable penetration of use in general practice of electronic
     records for direct patient care*
 
--   *The majority of patient information from outside practices remains
+- *The majority of patient information from outside practices remains
     paper-based*
 
--   *The variable degree to which such external information is
+- *The variable degree to which such external information is
     incorporated into the electronic record*
 
--   *The variable degree to which historical patient information native
+- *The variable degree to which historical patient information native
     to practices has been incorporated into electronic records*
 
 ***The net effect of this is that, while electronic record transfer will
@@ -545,27 +545,27 @@ be printed out. Practices should be aware that they will need to seek
 permission from the PCO to transfer patient records to the next practice
 by a medium other than paper.
 
-### **8b.6 GP electronic record quality **
+### **8b.6 GP electronic record quality**
 
 However carefully electronic records are kept, errors in their content
 will sometimes be present. The following examples are already known to
 have occurred;
 
--   *Erroneous codes added by a secretary from an inbound letter*
+- *Erroneous codes added by a secretary from an inbound letter*
 
--   *Erroneous diagnostic code added by a doctor on "hearsay" from a
+- *Erroneous diagnostic code added by a doctor on "hearsay" from a
     third party*
 
--   *Erroneous codes added as a result of a flawed data transfer mapping
+- *Erroneous codes added as a result of a flawed data transfer mapping
     exercise*
 
--   *Automatic code entry as a result of software misinterpretation of
+- *Automatic code entry as a result of software misinterpretation of
     inbound electronic messages*
 
--   *Missing or incomplete significant data*
+- *Missing or incomplete significant data*
 
--   *Data summarised from Lloyd George notes that relates to a different
-    patient\'s clinical information *
+- *Data summarised from Lloyd George notes that relates to a different
+    patient\'s clinical information*
 
 (see also Chapter 6)
 
@@ -578,7 +578,7 @@ e-commerce basis, and NHS computer systems are supported by common
 terminologies and architectural principles, these guidelines will
 change.
 
-### **8b.7.1 Workflow **
+### **8b.7.1 Workflow**
 
 ### **8b.7.1.1 Links with registration business process**
 
@@ -612,18 +612,18 @@ previous practice using the EHR request message.
 
 At the previous practice a series of events takes place automatically;
 
--   *A check is performed to confirm that the patient's record can be
+- *A check is performed to confirm that the patient's record can be
     found*
 
--   *If the record is found then a check is run against the SDS to
+- *If the record is found then a check is run against the SDS to
     obtain the routing details of the patient's new practice*
 
--   *An electronic acknowledgement is sent to the new practice*
+- *An electronic acknowledgement is sent to the new practice*
 
--   *A check is run against the PDS to check that the patient has in
+- *A check is run against the PDS to check that the patient has in
     fact registered at this new practice*
 
--   *Finally, assuming that the previous checks have returned
+- *Finally, assuming that the previous checks have returned
     satisfactory responses, the patient's electronic record is
     automatically extracted and conveyed by the EHR extract message
     across the N3 network and the TMS to the new practice*
@@ -651,14 +651,14 @@ the registered GP access to what is now his patient\'s record.
 During the development of the GP2GP record transfer process two issues
 were considered;
 
--   *Whether to have an automatic process that extracted the record from
+- *Whether to have an automatic process that extracted the record from
     the sending practice without intervention from the sending practice,
     or whether to have the sending practice \'allow\' the request and
     determine whether the record would be extracted, i.e. in some way be
     able to stop or deny the request*
 
--   *Whether the extraction should occur immediately or at some other
-    (delayed) time, e.g. 24 or 72 hours later. *
+- *Whether the extraction should occur immediately or at some other
+    (delayed) time, e.g. 24 or 72 hours later.*
 
 These issues were considered and debated by the full General
 Practitioner Committee, the Royal College of GPs, the GP2GP Project
@@ -678,7 +678,7 @@ registering with a new GP practice. This may result in a request being
 made for the wrong record via a GP2GP transfer and a patient being
 inappropriately deducted from their true registered general practice.
 
--   **Registering new patients **
+- **Registering new patients**
 
 Correctly identifying and registering new patients on the demographics
 database (PDS) is the absolutely key step in reducing the risk of
@@ -693,7 +693,7 @@ provide formal identification and proof of recent address to ensure that
 correct GP2GP record transfer occurs. If in doubt, registration should
 be deferred and advice sought from the PCT/Patient Services Agency.
 
--   **Erroneous transfers & the sending practice **
+- **Erroneous transfers & the sending practice**
 
 Most erroneous transfers come to light when the patient contacts their
 practice (the sending practice) for an appointment or prescription, to
@@ -703,7 +703,7 @@ practice should also contact their PCT (Patient Services Agency) to
 request that the patient's registration be reinstated and consider
 informing the patient what has happened.
 
--   **Erroneous transfers & the receiving practice **
+- **Erroneous transfers & the receiving practice**
 
 The practice requesting the record (the receiving practice) may also
 identify that they have the wrong record, or are informed by their
@@ -724,18 +724,18 @@ electronic record including demographic entries should still exist. This
 forms a special case known as the 'A -- B -- A' scenario and leads to
 the following challenges:
 
--   *Practice 'A' must not end up with duplicate records for the patient
-    (i.e. both the original and the newly received records). *
+- *Practice 'A' must not end up with duplicate records for the patient
+    (i.e. both the original and the newly received records).*
 
--   *The need to keep duplication, disorganisation and degradation of
+- *The need to keep duplication, disorganisation and degradation of
     the content of the original existing record at Practice 'A' to a
     minimum when attempts are made to merge this with the incoming
-    record from 'B' *
+    record from 'B'*
 
--   *The need to apply all changes to the record deliberately made by
+- *The need to apply all changes to the record deliberately made by
     any user since the patient left Practice 'A'*
 
--   *The need for any merging process to have an automatic default that
+- *The need for any merging process to have an automatic default that
     is deemed to be clinically safe*
 
 At the present time these challenges cannot be satisfactorily met.
@@ -775,8 +775,8 @@ should be paid to the checks outlined in section 8b.7.5 and the general
 principles enumerated in section 8b.7.6 should be followed. The stages
 might typically follow in this sequence:
 
-1.  **Registration process / PDS trace and triggering of the automatic
-    EHR request process: **
+1. **Registration process / PDS trace and triggering of the automatic
+    EHR request process:**
 
 > It is vital that staff involved with the registration of patients
 > should understand the process, and the need to be logged on with Smart
@@ -785,8 +785,8 @@ might typically follow in this sequence:
 > **8b.7.1**). In this context, they should be aware of the importance
 > of using the patient's NHS number wherever possible.
 
-2.  **Initial check of incoming records leading to filing in a timely
-    fashion: **
+1. **Initial check of incoming records leading to filing in a timely
+    fashion:**
 
 > All systems provide a facility to preview the incoming record before
 > it is filed into the database. Some systems provide facilities to
@@ -809,7 +809,7 @@ might typically follow in this sequence:
 > follows that the earlier the record is filed the less the amount of
 > checking that will need to be done.
 
-3.  **Fixing of any degraded drug allergies in the incoming record so
+1. **Fixing of any degraded drug allergies in the incoming record so
     that prescribing is unlocked**
 
 > The GP2GP record transfer process has been designed to minimise the
@@ -830,7 +830,7 @@ might typically follow in this sequence:
 > choose to give the processing of these degrades a high priority so
 > that time can be saved in the first consultation.
 
-4.  **Reviewing and re-authorising medication (typically with the
+1. **Reviewing and re-authorising medication (typically with the
     patient):\
     **At the first consultation immediately after registration time is
     likely to be at a premium. As a minimum:
@@ -851,11 +851,11 @@ might typically follow in this sequence:
         ii. ***Medications have been reviewed and (re) authorised by a
             prescriber in the new practice***
 
-5.  **General review of the record with the patient to check and correct
-    any missing information or inaccuracies: **
+2. **General review of the record with the patient to check and correct
+    any missing information or inaccuracies:**
 
 > **\
-> **The prime objective here is to ensure that from the patient's point
+>**The prime objective here is to ensure that from the patient's point
 > of view the record is complete and accurate (See section 8b.7.6
 > General principles for guidance about making alterations). In
 > particular, if not already done;
@@ -873,11 +873,11 @@ e.  Any current medication or allergy information should be checked for
 
 <!-- -->
 
-6.  **Review of paper record to look for and back load missing
-    information: **
+1. **Review of paper record to look for and back load missing
+    information:**
 
 > **\
-> **Typically this will be a 'back office' activity similar to the
+>**Typically this will be a 'back office' activity similar to the
 > 'summarising' activity performed for paper-based transfers. The main
 > objective should be to find important information in the paper record
 > that was not entered into the electronic record at the previous
@@ -888,10 +888,10 @@ e.  Any current medication or allergy information should be checked for
 > Practice staff should resist the temptation to make cosmetic changes
 > to the incoming record (See section **8b.7.6** General principles)
 
-7.  **Business specific information review: **
+1. **Business specific information review:**
 
 > **\
-> **The aim of this 'back office' activity is to review the record to
+>**The aim of this 'back office' activity is to review the record to
 > ensure that it contains necessary entries to support practice business
 > processes (e.g. cervical cytology call / recall). In this case,
 > because individual practices have different ways of managing their
@@ -901,7 +901,7 @@ e.  Any current medication or allergy information should be checked for
 > incoming records). This activity can be carried out in parallel with
 > the other activities outlined above.
 
-8.  **Keeping filing of incoming results / correspondence up to date:**
+1. **Keeping filing of incoming results / correspondence up to date:**
 
 > In contrast to all of the above points, which relate to the receiving
 > of records this relates to the Practice's role as a sender of records.
@@ -924,7 +924,7 @@ e.  Any current medication or allergy information should be checked for
 > this and practices should be clear about the procedure to be followed
 > in such cases.***
 
-**8b.7.3 Training **
+**8b.7.3 Training**
 
 Practices should ensure that all of the processes outlined in section
 8.3.7.2 are integrated into their general operations and managed
@@ -935,43 +935,43 @@ commensurate with experience, training and responsibility, to enable
 users to carry out these roles. The team members concerned should have
 undergone appropriate training. In particular:
 
--   *A responsible member of staff and a deputy should be identified to
+- *A responsible member of staff and a deputy should be identified to
     take the lead within the practice and be trained in the processes
     involved in GP2GP record transfer*
 
--   *The Practice lead should identify how the processes outlined in
+- *The Practice lead should identify how the processes outlined in
     8.3.7.2 will be integrated into general practice operations and
     carry out a training needs assessment of the people involved. In
     particular this should address:*
 
-    -   *Registration process and PDS trace*
+  - *Registration process and PDS trace*
 
-    -   *Initial check of records on receipt and filing*
+  - *Initial check of records on receipt and filing*
 
-    -   *Handling of drug allergy degrades*
+  - *Handling of drug allergy degrades*
 
-    -   *Reauthorisation of medications / identification of what was
+  - *Reauthorisation of medications / identification of what was
         current medication in previous practice*
 
-    -   *Review of paper records, what to backload, how to achieve this
+  - *Review of paper records, what to backload, how to achieve this
         keeping changes to incoming record to a minimum*
 
-    -   *Dealing with business specific information*
+  - *Dealing with business specific information*
 
--   *All users of the practice system should be trained in what to
+- *All users of the practice system should be trained in what to
     expect from electronic record transfer and, in particular, from the
-    limitations outlined in section 8.3.3 of this chapter. *
+    limitations outlined in section 8.3.3 of this chapter.*
 
--   *More generally, all members of the clinical team and relevant
+- *More generally, all members of the clinical team and relevant
     members of the administrative team should be familiar with these
     good practice guidelines prior to commencement of GP2GP record
     transfer*
 
--   *Practices should identify a date from which they will implement
+- *Practices should identify a date from which they will implement
     GP2GP record transfer and all members of the practice should be
     informed of the date of commencement of GP2GP record transfer*
 
-**8b.7.4 Non-computerised practices **
+**8b.7.4 Non-computerised practices**
 
 Although the number of non-computerised practices has become very small
 not all record transfers between practices are capable of being covered
@@ -979,54 +979,54 @@ by GP2GP electronic record transfer. Therefore it will be necessary to
 continue to exchange paper records for the foreseeable future. (See
 **8.3.7.1.5** -- Parallel running with paper records)
 
-**8b.7.5 Validation **
+**8b.7.5 Validation**
 
 > This is about 'fitness for purpose' of the incoming record and relates
 > to things that should be done as soon as possible after the incoming
 > record is received;
 
--   *Check that both demographic information and associated electronic
+- *Check that both demographic information and associated electronic
     record relate to the patient*
 
--   *On preview confirm that the record is of adequate quality to file*
+- *On preview confirm that the record is of adequate quality to file*
 
--   *Check compatibility and consistency between any interim record
+- *Check compatibility and consistency between any interim record
     already made and the filed incoming record*
 
--   *Deal with any drug allergy degrades*
+- *Deal with any drug allergy degrades*
 
--   *Reauthorise medications and deal with any medication degrades*
+- *Reauthorise medications and deal with any medication degrades*
 
--   *Check business specific information and amend entries to align with
+- *Check business specific information and amend entries to align with
     practice processes but resisting the temptation to make any changes
     unless they are absolutely necessary from a safety / usability /
     business process point of view*
 
 **8b.7.6 General principles**
 
--   *The quality issues identified in section 8.3.6 above require
+- *The quality issues identified in section 8.3.6 above require
     practices to have in place mechanisms aimed at reducing or
     eliminating the impact of externally received erroneous data.*
 
--   *The practice\'s natively created record should be maintained in
+- *The practice\'s natively created record should be maintained in
     line with these \"Good Practice Guidelines for General Practice
     Electronic Patient Records v4\"*
 
--   *Practices should review their organisational arrangements so that
+- *Practices should review their organisational arrangements so that
     they are able to support the processing of incoming records as
     outlined in section 8.3.7.2*
 
--   *In particular, the incoming record should be subject to validation
-    checks as identified in section 8b.7.5 *
+- *In particular, the incoming record should be subject to validation
+    checks as identified in section 8b.7.5*
 
--   *Practices should recognise that patients themselves are generally
+- *Practices should recognise that patients themselves are generally
     the most competent to judge the accuracy of their own historical
     information, and should consider ways of enabling patients to
     comment on the content of their records at specific points in their
     experience such as their first visit after registering, on the point
     of referral to hospital etc.*
 
--   *Practices are provided with functionality on their systems that
+- *Practices are provided with functionality on their systems that
     will allow them to review but currently not to alter incoming
     records before they are filed. They are currently presented with a
     choice of either filing the record into the Practice database or
@@ -1034,22 +1034,22 @@ continue to exchange paper records for the foreseeable future. (See
     patient's new record. The choice to reject should only be exercised
     rarely*
 
--   *Practices are provided with further functionality to assist them in
+- *Practices are provided with further functionality to assist them in
     making some essential changes to the record after filing (e.g.
     degraded drug allergies -- see below)*
 
--   *There is a need to review and, in some cases to make further
+- *There is a need to review and, in some cases to make further
     alterations to the information in those records after filing (See
     sections 8b.7.5 and 8b.7.2). When doing this the responsible user
     should ensure that;*
 
-    -   ***Incoming record information is not modified beyond what is
+  - ***Incoming record information is not modified beyond what is
         necessary to make it safe and usable on the receiving system***
 
-    -   ***Incoming record information is never deleted unless deemed to
+  - ***Incoming record information is never deleted unless deemed to
         be unsafe in terms of its accuracy or comprehensibility***
 
--   *When paper records are subsequently received they should be
+- *When paper records are subsequently received they should be
     reviewed by a GP or other appropriately trained member of staff and
     amendments made to the electronic record where appropriate*
 
@@ -1090,4 +1090,4 @@ continue to exchange paper records for the foreseeable future. (See
     resolve the issues relating to file attachments outlined in section
     8.3.3.5
 
-[^9]: http://nww.connectingforhealth.nhs.uk/demographics
+[^9]: <http://nww.connectingforhealth.nhs.uk/demographics>

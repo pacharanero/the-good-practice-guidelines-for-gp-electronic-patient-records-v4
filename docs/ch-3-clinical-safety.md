@@ -21,23 +21,23 @@ including:
 
 Organisational factors;
 
--   *Management decisions*
+- *Management decisions*
 
--   *Organisational processes*
+- *Organisational processes*
 
--   *Corporate culture*
+- *Corporate culture*
 
 Workplace factors;
 
--   *Error producing conditions*
+- *Error producing conditions*
 
--   *Violation producing conditions*
+- *Violation producing conditions*
 
 Personal factors;
 
--   *Errors*
+- *Errors*
 
--   *Violations*
+- *Violations*
 
 ###
 
@@ -64,16 +64,16 @@ Low As Reasonably Practicable* (ALARP principle).
 
 The CSA is a clinically led process that has three stages:
 
--   ***End to end hazards workshop** to 'walk through' the processes
+- ***End to end hazards workshop** to 'walk through' the processes
     with which a software module is associated in order to identify
     those things that may cause harm to a patient*
 
--   ***Development of a clinical safety case** where hazards identified
+- ***Development of a clinical safety case** where hazards identified
     are scored for likelihood and impact and prioritised according to
     the resulting risk score. Appropriate 'mitigations' are identified
     and agreed for all of these hazards.*
 
--   ***Safety closure Report**. At this stage evidence is assembled to
+- ***Safety closure Report**. At this stage evidence is assembled to
     demonstrate that all of the mitigations agreed in the clinical
     safety case have been carried out. The resulting safety closure
     document is presented to the CSG. Various regulations are in place
@@ -112,15 +112,15 @@ will in a timely fashion be able to find all of the information relevant
 to the patient's circumstances, interpret it correctly and make
 clinically safe and appropriate decisions.
 
--   *Practice teams will require education and training to understand
+- *Practice teams will require education and training to understand
     the implications of working in an increasingly interoperable
     environment (see Chapter 12)*
 
--   *The quality of the information held on the originating system is of
+- *The quality of the information held on the originating system is of
     paramount importance as this may impact on the decision making of
     everyone downstream (see Chapter 6)*
 
--   *Rigorous, centrally managed, clinically led safety testing is
+- *Rigorous, centrally managed, clinically led safety testing is
     required*
 
 An approach has been developed which depends on trained clinicians, with
@@ -162,17 +162,17 @@ Safety Group website[^2]
 
 In summary Health Organisations (and hence GPs) should:
 
--   *Seek to procure systems which comply with DSCN 14/2009 (the
+- *Seek to procure systems which comply with DSCN 14/2009 (the
     supplier safety standard)*
 
--   *Carefully risk assess the implications to rolling out a new system*
+- *Carefully risk assess the implications to rolling out a new system*
 
--   *Ensure any risks are properly understood, investigated and
+- *Ensure any risks are properly understood, investigated and
     mitigated by sensible controls (such as checks on migrated data or
     local testing to ensure the new system is correctly configured) and
     *
 
--   *A clear process for reporting safety issues to the system supplier*
+- *A clear process for reporting safety issues to the system supplier*
 
 The NHS CfH Clinical Safety Group (CSG) provide a more detailed document
 which GPs can use as an aide-memoire when changing system -- the Safer

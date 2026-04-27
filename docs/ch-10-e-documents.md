@@ -35,16 +35,16 @@ practices of any need to change procedures.
 ++
 | > Common examples of attached documents:                              |
 |                                                                       |
-| -   *Clinical photographs e.g. skin lesions / retinal scans *         |
+| -   *Clinical photographs e.g. skin lesions / retinal scans*         |
 |                                                                       |
-| -   *Scanned images from paper *                                      |
+| -   *Scanned images from paper*                                      |
 |                                                                       |
-| -   *Images from diagnostic equipment *                               |
+| -   *Images from diagnostic equipment*                               |
 |                                                                       |
-| -   *ECG, Ultrasound scanners *                                       |
+| -   *ECG, Ultrasound scanners*                                       |
 |                                                                       |
 | -   *Clinical communications (e.g. discharge letters, outpatient      |
-|     clinic letters) *                                                 |
+|     clinic letters)*                                                 |
 |                                                                       |
 | -   *Word-processed Documents, Email*                                 |
 |                                                                       |
@@ -82,28 +82,28 @@ records are transferred to another practice.
 
 **Key principles of attachment handling;**
 
--   *Following attachment, any changes made to an editable document must
+- *Following attachment, any changes made to an editable document must
     be logged in the clinical system's audit trail.*
 
--   *Care must be taken that the document can be faithfully viewed after
+- *Care must be taken that the document can be faithfully viewed after
     attachment, particularly when documents are scanned. Unusual or
-    proprietary formats should be avoided when scanning. *
+    proprietary formats should be avoided when scanning.*
 
--   *Where a document with an unusual format is delivered to the
+- *Where a document with an unusual format is delivered to the
     practice, the practice must ensure that appropriate viewing software
     is available and that the type of software required is documented
-    within the patient record. *
+    within the patient record.*
 
--   *Picture, image files and especially video files can take up
+- *Picture, image files and especially video files can take up
     considerable storage space which should be considered when deciding
     if some types of attachment should be stored in the patient record.*
 
--   *Some formats, particularly JPEG, may result in the loss of image
+- *Some formats, particularly JPEG, may result in the loss of image
     detail and should be avoided where the image needs to be of
     diagnostic quality. This may become a particular issue if the image
     is opened and re-saved repeatedly.*
 
--   *When paper documents are scanned, practices should take care to
+- *When paper documents are scanned, practices should take care to
     make and save a close facsimile of the original document, retaining
     colour information where it is important to do so (e.g. highlighted
     information in a letter). Some image formats such as JPEG, compress
@@ -112,7 +112,7 @@ records are transferred to another practice.
     as TIFF and PNG, which do not 'lose information' in this way are
     generally preferable for scanned images.*
 
--   *When scanning a multi-page document, which it is important to
+- *When scanning a multi-page document, which it is important to
     maintain as a single entity for medico-legal purposes, the TIFF
     format is generally preferred. TIFF can store a number of
     images/pages in a single file whereas JPEG, in its standard form,
@@ -120,7 +120,7 @@ records are transferred to another practice.
     document stored in JPEG format will consist of a number of separate
     files.*
 
--   *Optical Character Recognition (OCR), which attempts to convert
+- *Optical Character Recognition (OCR), which attempts to convert
     images of type-written text to word-processable formats, is becoming
     increasingly accurate, sometimes allowing additional semi-automatic
     processing of document headers. However the accuracy of OCR remains
@@ -128,7 +128,7 @@ records are transferred to another practice.
     Safest practice is always to retain an accurate scanned facsimile of
     the original document.*
 
--   *It is possible to password protect some documents, such that the
+- *It is possible to password protect some documents, such that the
     document cannot be viewed without the password. Whilst this may seem
     an attractive means of adding a layer of privacy to particularly
     sensitive documents, in practice it can be very difficult to ensure
@@ -142,9 +142,9 @@ records are transferred to another practice.
     may be helpful, though this may itself cause problems when
     transferring records to another practice, and ultimately the
     simplest solution may be to retain highly sensitive documents in a
-    traditional paper 'sealed envelope'. *
+    traditional paper 'sealed envelope'.*
 
--   *NHS England Choose and Book recommends PDF file format for all
+- *NHS England Choose and Book recommends PDF file format for all
     written text, where practically possible.*
 
 ### Table 10.3.1
@@ -220,7 +220,7 @@ records are transferred to another practice.
 |                       | Portable Network      | A relatively new      |
 |                       | Graphics (PNG)        | standard supported by |
 |                       |                       | the web. The format   |
-|                       | <http://www.w3.org/TR | specifies a           |
+|                       | <<http://www.w3.org/TR> | specifies a           |
 |                       | /PNG/>                | compression method    |
 |                       |                       | but which avoids a    |
 |                       |                       | loss of original data |
@@ -294,7 +294,7 @@ records are transferred to another practice.
 |                       |                       | as published          |
 |                       |                       | standards such as     |
 |                       |                       | DICOM                 |
-|                       |                       | (http://medical.nema. |
+|                       |                       | (<http://medical.nema>. |
 |                       |                       | org)                  |
 ++++
 |                       | AVI, QuickTime,       | Moving images         |
@@ -404,8 +404,8 @@ communicating the contents of a clinical document (see table 10.5.3)
 
   **Label element**    **Examples**
 
-  **Document type **   "Clinic letter", "Discharge document"
-  **Speciality **      "Occupational therapy", "General medicine"
+  **Document type**   "Clinic letter", "Discharge document"
+  **Speciality**      "Occupational therapy", "General medicine"
 
 This approach, coupled with the use of standard lists of document types
 and speciality names may, in time, lead to the majority of NHS clinical
@@ -501,27 +501,27 @@ The protocol has been operating successfully in a number of PCTs, to the
 benefit of both sending and receiving practices but the following
 principles and caveats should be noted;
 
--   *Formal permission should be sought from the Sending practice's PCO
+- *Formal permission should be sought from the Sending practice's PCO
     to allow CD-based transfer.*
 
--   *The process should not be carried out until administrative staff
+- *The process should not be carried out until administrative staff
     have received training in the necessary procedures, as documented at
     the project website, both to create the outgoing CD and to import
     attachments from the received CD.*
 
--   *The procedures advised by the appropriate GP system supplier should
+- *The procedures advised by the appropriate GP system supplier should
     be closely followed to prevent potential loss of information in the
     transfer process.*
 
--   *The recipient practice retains the right to receive the record and
+- *The recipient practice retains the right to receive the record and
     attachments in paper format if they so desire, but must request this
     from the sending practice in a timely fashion.*
 
--   *Only non-rewriteable CD-based transfers are acceptable. Other media
+- *Only non-rewriteable CD-based transfers are acceptable. Other media
     such as DVD, floppy discs and USB memory sticks have significant
     risks and drawbacks in comparison.*
 
--   *After importing and checking the data, the CD received must be
+- *After importing and checking the data, the CD received must be
     shredded or destroyed by cutting -- the project website gives
     further instructions.*
 
@@ -711,21 +711,21 @@ form part of the patients' records but carry information about patients,
 carers and others. Below, we give some examples of these documents and
 advice about their retention and disposal;
 
--   *Notification of infectious disease -- no need to retain counterfoil
+- *Notification of infectious disease -- no need to retain counterfoil
     providing there is an appropriate entry in the relevant EPR. In NHS
     Scotland, notifications are performed electronically via SCI
-    Gateway. *
+    Gateway.*
 
--   *Message books/logs -- ensure any action taken (e.g. phone
+- *Message books/logs -- ensure any action taken (e.g. phone
     call/consultation/visit) is recorded in the EPR. It is advisable to
     retain written message books/logs in line with general medico-legal
-    guidance. *
+    guidance.*
 
--   *Ambulance request logs -- ensure any action taken is recorded (as
-    above) *
+- *Ambulance request logs -- ensure any action taken is recorded (as
+    above)*
 
--   *X-ray films. These should be retained in line with the DoH guidance
-    above (see Chapter 3). *
+- *X-ray films. These should be retained in line with the DoH guidance
+    above (see Chapter 3).*
 
 Most of the above are "process" forms but may be important
 medico-legally. If practices are in any doubt about retaining a document

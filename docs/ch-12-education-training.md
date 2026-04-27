@@ -29,7 +29,7 @@ Centre:
 Similar points are made in UCL's independent evaluation of the SCR[^2],
 particularly in sections *7.3. The SCR: 'Plug and play' technology or
 socio-technical change? and 7.4. The change model: 'Make it happen' or
-'let it emerge'? *
+'let it emerge'?*
 
 Sadie Williams and Trishia Greenhalgh are referring to 'engagement' and
 their comments are made in a political and social context. These themes,
@@ -226,7 +226,7 @@ appraisal should each complement the other.
 supplemented by facilitated inter-personal learning so that human
 elements of learning and change can be properly addressed.**
 
-###  12.4 Some learning resources
+### 12.4 Some learning resources
 
 There are many useful resources available on the internet. The few
 examples listed below are NHS related and provided by Connecting for
@@ -235,48 +235,48 @@ as e-learning resources for specific items such as Summary Care Record,
 Patient Demographics Service and Information Governance: all of which
 are on the CFH e-learning resources site below;
 
--   *NHS CfH ETD
+- *NHS CfH ETD
     <http://www.connectingforhealth.nhs.uk/systemsandservices/etd>*
 
--   *NHS CfH e-learning resources
+- *NHS CfH e-learning resources
     <http://www.connectingforhealth.nhs.uk/systemsandservices/capability/phi/personal/elearning>
     *
 
--   *E-Learning for Healthcare <http://www.e-lfh.org.uk/> *
+- *E-Learning for Healthcare <http://www.e-lfh.org.uk/>*
 
--   *Health Learning and Skills
-    <http://hlas.careers-advice.org/NHS/courses/index.html> *
+- *Health Learning and Skills
+    <http://hlas.careers-advice.org/NHS/courses/index.html>*
 
--   *e-ICE project (embedding informatics in clinical education)
+- *e-ICE project (embedding informatics in clinical education)
     <http://www.connectingforhealth.nhs.uk/systemsandservices/capability/health/hidcurriculum/index_html>
     *
 
--   *PRIMIS+ <http://www.primis.nhs.uk/>*
+- *PRIMIS+ <http://www.primis.nhs.uk/>*
 
--   *PRIMIS+ - Find a facilitator
-    <http://www.primis.nhs.uk/index.php/about-us/find-facilitator> *
+- *PRIMIS+ - Find a facilitator
+    <http://www.primis.nhs.uk/index.php/about-us/find-facilitator>*
 
--   *Discussion boards are also a useful source of information and may
+- *Discussion boards are also a useful source of information and may
     go some way to addressing the need for interaction and social
     aspects of learning;*
 
--   *Data Quality Guild
+- *Data Quality Guild
     <http://www.ic.nhs.uk/services/the-data-quality-programme/news-and-developments/guildspace-goes-live>!
     *
 
--   *PRIMIS+ <http://forum.primis.nottingham.ac.uk/>*
+- *PRIMIS+ <http://forum.primis.nottingham.ac.uk/>*
 
--   *PHCSG Discussion board <http://www.phcsg.org/index.php?p=discuss>*
+- *PHCSG Discussion board <http://www.phcsg.org/index.php?p=discuss>*
 
--   *Clinical system supplier forums and clinical system user group
+- *Clinical system supplier forums and clinical system user group
     forums are also available (see Chapter 9.8)*
 
-[^1]: http://www.nursingleadership.org.uk/publications/LitRProfGps04%20(Henley).pdf
+[^1]: <http://www.nursingleadership.org.uk/publications/LitRProfGps04%20(Henley).pdf>
 
-[^2]: http://eprints.ucl.ac.uk/6602/
+[^2]: <http://eprints.ucl.ac.uk/6602/>
 
 [^3]: SRPG report
     <http://www.rcgp.org.uk/news_and_events/news_room/news_2009/rcgp_shared_record_professiona.aspx>
 
 [^4]: Tomorrow's Doctors
-    http://www.gmc-uk.org/education/undergraduate/tomorrows\_doctors.asp
+    <http://www.gmc-uk.org/education/undergraduate/tomorrows\_doctors.asp>

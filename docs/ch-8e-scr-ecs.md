@@ -69,14 +69,14 @@ with the patients concerned. In these circumstances, it is more than
 usually important to ensure the completeness and accuracy of the
 medication record by;
 
--   *Engaging in timely medication reviews*
+- *Engaging in timely medication reviews*
 
--   *Entering handwritten prescriptions in the electronic record*
+- *Entering handwritten prescriptions in the electronic record*
 
--   *Entering medication prescribed and dispensed in another care
+- *Entering medication prescribed and dispensed in another care
     setting*
 
--   *Entering regular OTC medication where possible*
+- *Entering regular OTC medication where possible*
 
 ### 8e.3.2 General clinical codes {#e.3.2-general-clinical-codes .ListParagraph}
 
@@ -96,40 +96,40 @@ Having said that, the RCGP has produced a set of recommendations[^6] for
 the enriched content of the GP Summary in the SCR which include the
 following general categories:
 
--   *Major diagnoses*
+- *Major diagnoses*
 
--   *Conditions that may have a chronic or relapsing course*
+- *Conditions that may have a chronic or relapsing course*
 
--   *Conditions for which the patient receives repeat medications*
+- *Conditions for which the patient receives repeat medications*
 
--   *Conditions that are persistent and serious contraindications for
+- *Conditions that are persistent and serious contraindications for
     classes of medication*
 
--   *Major operations*
+- *Major operations*
 
--   *Significant therapies & treatment plans*
+- *Significant therapies & treatment plans*
 
--   *Significant investigations*
+- *Significant investigations*
 
--   *Fractures*
+- *Fractures*
 
--   *Immunisations*
+- *Immunisations*
 
 How this is achieved will, to some extent, be platform dependent.
 However, in order to reach this end, some general requirements will need
 to be present including:
 
--   *Practices will need to have a reliable and timely process for
+- *Practices will need to have a reliable and timely process for
     summarising the records of new patients*
 
--   *Practices will need to have a comprehensive policy for capturing
+- *Practices will need to have a comprehensive policy for capturing
     significant diagnoses and events made or occurring in primary care*
 
--   *Practices will need to have a reliable process for coding
+- *Practices will need to have a reliable process for coding
     significant diagnoses and events made or occurring in other care
     settings*
 
--   *Practices will need to maintain the completeness, relevance and
+- *Practices will need to maintain the completeness, relevance and
     contemporaneousness of local problem lists*
 
 Finally, it is important to recognise that the ultimate responsibility
